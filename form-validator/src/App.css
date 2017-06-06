@@ -1,0 +1,43 @@
+body {
+    margin-top:50px;
+    text-align: center;
+}
+
+input {
+    height: 2em;
+}
+
+.error {
+    background-color: lightcoral;
+    border: 1px solid red;
+    font-weight: bold;
+    height: 3em;
+    font:1.5em;
+}
+
+ul {
+    margin-top: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    list-style-type: none;
+
+    
+}
+
+li {
+    margin: 5px;
+    height: 4em;
+}
+
+button {
+    height: 2em;
+}
+
+ul {
+    width: 200px;
+   
+}
+
+form {
+    margin-bottom: 30px;
+}
